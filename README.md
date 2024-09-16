@@ -12,3 +12,4 @@ Dependencias usadas en el proyecto
 -npm install react-native-safe-area-context@4.10.1
 -npm install @react-navigation/native-stack @react-navigation/native
 -npm install expo-image-picker
+A
